@@ -1,7 +1,10 @@
+<div align="center">
+<img src="Projeto Sunny Land Forest/Assets/Projeto/Sprites/Environment/Layers/Title.png" width="400">
 <img src="img/Captura de tela 2023-07-21 141437.png">
+</div>
 
 <div align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png" width="100" >
+<img src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png" width="100"  >
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" width="100" >
 </div>
 
